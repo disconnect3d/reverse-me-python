@@ -16,3 +16,9 @@ NOTE: This requires `docker` to be installed and uses an unofficial docker image
 
 I am going to create 1-2 videos about the challenge, different solutions and how it's hosted.
 Stay tuned! o/
+
+During the PyCon PL I have also gathered solutions and made a short talk about it:
+* https://docs.google.com/presentation/d/1ARiS5JSu9u4LGbiveSVY4Uzo27aHuw--lwCr8JKtEFU/
+
+I also described the configuration in a normal talk I made during PyCon PL, but I am not sure if pure slides are that helpful (see 37+ slides):
+* https://docs.google.com/presentation/d/1LTIuStnvlKvkyRdpFmXrJ6-fxYE0roU_gHJ-83nk0zU/
