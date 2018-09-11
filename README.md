@@ -10,7 +10,7 @@ The challenge requires user to find out three flags that are hidden in the Pytho
 
 Clone the repo, go to `src` and fire `./build_and_launch.sh`. This will build a docker image that will run nsjail and expose it on 31337 port.
 
-NOTE: This requires `docker` to be installed and uses an unofficial docker image `disconnect3d/nsjail`. Yeah, this is my image.
+NOTE: This requires `docker` to be installed and uses an unofficial docker image `disconnect3d/nsjail`. Yeah, this is my image and has been built by `docker build -t disconnect3d/nsjail .` fired in the `nsjail` repo.
 
 ## Configuration and writeups
 
