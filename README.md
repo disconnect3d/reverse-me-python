@@ -14,7 +14,7 @@ NOTE: This requires `docker` to be installed and uses an unofficial docker image
 
 ## Configuration and writeups
 
-I am going to create 1-2 videos about the challenge, different solutions and how it's hosted.
+*I am going to create 1-2 videos about the challenge, different solutions and how it's hosted.*
 Stay tuned! o/
 
 During the PyCon PL I have also gathered solutions and made a short talk about it:
